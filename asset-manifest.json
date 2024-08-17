@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/loan-assist-pro/static/css/main.1a074381.css",
+    "main.js": "/loan-assist-pro/static/js/main.9043b94e.js",
+    "static/js/213.41046fcb.chunk.js": "/loan-assist-pro/static/js/213.41046fcb.chunk.js",
+    "static/js/732.16b8905a.chunk.js": "/loan-assist-pro/static/js/732.16b8905a.chunk.js",
+    "static/media/logo.png": "/loan-assist-pro/static/media/logo.23a49a7f2c7e1a4cdb25.png",
+    "index.html": "/loan-assist-pro/index.html",
+    "main.1a074381.css.map": "/loan-assist-pro/static/css/main.1a074381.css.map",
+    "main.9043b94e.js.map": "/loan-assist-pro/static/js/main.9043b94e.js.map",
+    "213.41046fcb.chunk.js.map": "/loan-assist-pro/static/js/213.41046fcb.chunk.js.map",
+    "732.16b8905a.chunk.js.map": "/loan-assist-pro/static/js/732.16b8905a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a074381.css",
+    "static/js/main.9043b94e.js"
+  ]
+}
